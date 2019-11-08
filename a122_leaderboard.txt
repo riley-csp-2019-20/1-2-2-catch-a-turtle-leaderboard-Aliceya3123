@@ -1,0 +1,3 @@
+thse,15
+& "C:/Program Files (x86)/Python37-32/python.exe" c:/Users/aliceya77483/Desktop/Python/Aliceya122.py,7
+adf,5
